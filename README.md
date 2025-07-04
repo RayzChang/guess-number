@@ -1,1 +1,2 @@
-"# guess-number" 
+Import及迴圈練習
+猜數字程式
